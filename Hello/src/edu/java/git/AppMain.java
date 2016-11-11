@@ -4,10 +4,10 @@ public class AppMain {
 
 	public static void main(String[] args) {
 		System.out.println("Hello.git");
-		System.out.println("ÇÏÀÌ Á¶¿ë¿ì");
-		System.out.println("¾îŸåÈÄ");
+		System.out.println("í•˜ì´ ì¡°ìš©ìš°");
+		System.out.println("ì–´ÂŸç€");
 		
-		System.out.println("»õ·Î¿î ±â´É Ãß°¡");
+		System.out.println("bug fix");
 
 	}
 
